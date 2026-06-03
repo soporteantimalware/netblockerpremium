@@ -2,17 +2,17 @@
 
 > ## 🛡️ Control Total de Internet para Windows 10 & 11
 >
-> **NetBlocker Pro** permite bloquear sitios web y restringir el acceso a Internet de aplicaciones específicas, brindando un mayor control sobre la conectividad de la red.
+> **Netblocker Premium** permite bloquear sitios web y restringir el acceso a Internet de aplicaciones específicas, brindando un mayor control sobre la conectividad de la red.
 >
 > Ideal para padres, empresas, instituciones educativas y usuarios que desean limitar el acceso a contenido no deseado, mejorar la productividad o proteger la privacidad de sus sistemas.
 >
-> Con una interfaz moderna y fácil de usar, NetBlocker Pro facilita la creación de reglas de bloqueo para sitios web y aplicaciones en cuestión de segundos.
+> Con una interfaz moderna y fácil de usar, Netblocker Premium facilita la creación de reglas de bloqueo para sitios web y aplicaciones en cuestión de segundos.
 
 ---
 
 <div align="center">
   <h2>📸 Captura de Pantalla</h2>
-  <img src="https://i.servimg.com/u/f34/20/32/08/60/sin_tz20.png" alt="NetBlocker Pro Interface" width="600">
+  <img src="https://i.servimg.com/u/f34/20/32/08/60/sin_tz20.png" alt="Netblocker Premium Interface" width="600">
 </div>
 
 ---
@@ -41,7 +41,7 @@
 
 ---
 
-# 🚀 ¿Por qué elegir NetBlocker Pro?
+# 🚀 ¿Por qué elegir Netblocker Premium?
 
 | 💡 Beneficios Clave                      | ⚙️ Especificaciones                       |
 | :--------------------------------------- | :---------------------------------------- |
@@ -106,7 +106,7 @@
 
 ---
 
-# 💎 Beneficios de NetBlocker Pro
+# 💎 Beneficios de Netblocker Premium
 
 | Beneficio                        | Descripción                              |
 | -------------------------------- | ---------------------------------------- |
@@ -122,7 +122,7 @@
 # ⚠️ Nota de Seguridad
 
 > [!CAUTION]
-> NetBlocker Pro modifica reglas de conectividad y acceso a la red para aplicar las restricciones configuradas.
+> Netblocker Premium modifica reglas de conectividad y acceso a la red para aplicar las restricciones configuradas.
 >
 > Algunos antivirus pueden generar alertas preventivas debido a este comportamiento técnico.
 >
