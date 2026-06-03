@@ -1,4 +1,4 @@
-# 🌐 NetBlocker Premium
+# 🌐 NetBlocker Premium 1.0.0
 
 > ## 🛡️ Control Total de Internet para Windows 10 & 11
 >
