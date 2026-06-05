@@ -33,8 +33,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/soporteantimalware/netblocker/releases">
-    <img src="https://img.shields.io/github/downloads/soporteantimalware/netblocker/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
+  <a href="https://github.com/soporteantimalware/netblockerpremium/releases">
+    <img src="https://img.shields.io/github/downloads/soporteantimalware/netblockerpremium/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
   </a>
 </p>
 
