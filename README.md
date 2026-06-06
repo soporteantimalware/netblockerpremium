@@ -157,7 +157,7 @@
   https://github.com/soporteantimalware/applockerpro
 
 * 🛡️🌐 **AppLocker Pro Suite**
-  https://github.com/soporteantimalware/applockeprosuite
+  https://github.com/soporteantimalware/applockerprosuite
 
 * 🌍 **AppLocker Pro Nexus**
   https://github.com/soporteantimalware/applockerpronexus
