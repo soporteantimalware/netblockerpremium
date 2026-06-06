@@ -121,11 +121,42 @@
 # ⚠️ Nota de Seguridad
 
 > [!CAUTION]
-> Netblocker Premium modifica reglas de conectividad y acceso a la red para aplicar las restricciones configuradas.
+> AppLocker Pro interactúa con procesos del sistema y configuraciones de red para proporcionar sus funciones de protección y control.
 >
-> Algunos antivirus pueden generar alertas preventivas debido a este comportamiento técnico.
+> Debido a este comportamiento técnico, algunos antivirus o soluciones de seguridad pueden mostrar alertas preventivas o falsos positivos.
+
+> [!NOTE]
+> NetBlocker Premium es un proyecto independiente en constante evolución.
 >
-> El software es completamente legítimo, seguro y libre de malware.
+> Actualmente, el instalador aún no cuenta con una firma digital de código (Code Signing Certificate), por lo que Windows SmartScreen puede mostrar advertencias preventivas al ejecutar el archivo descargado.
+>
+> Estas advertencias forman parte de las medidas de seguridad estándar de Windows y no indican la presencia de software malicioso.
+>
+> La incorporación de firma digital se encuentra prevista para futuras versiones del proyecto.
+
+---
+
+# 📥 Instalación y Advertencia de Windows SmartScreen
+
+> [!IMPORTANT]
+> Al descargar NetBlocker Premium, Windows puede mostrar la advertencia **"Windows protegió tu PC"**.
+>
+> Este comportamiento es normal cuando una aplicación descargada desde Internet aún no dispone de una firma digital reconocida por Microsoft.
+
+### Pasos para continuar
+
+1. Haz clic en **Más información**.
+2. Haz clic en **Ejecutar de todas formas**.
+3. Continúa con la instalación normalmente.
+
+<div align="center">
+
+<img src="img/SmartScreen.gif" alt="Cómo ejecutar NetBlocker Premium" width="250">
+
+</div>
+
+> [!TIP]
+> Este procedimiento generalmente solo es necesario la primera vez que se ejecuta el instalador.
 
 ---
 
