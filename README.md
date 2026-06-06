@@ -121,7 +121,7 @@
 # ⚠️ Nota de Seguridad
 
 > [!CAUTION]
-> AppLocker Pro interactúa con procesos del sistema y configuraciones de red para proporcionar sus funciones de protección y control.
+> NetBlocker Premium interactúa con configuraciones de red para proporcionar sus funciones de protección y control.
 >
 > Debido a este comportamiento técnico, algunos antivirus o soluciones de seguridad pueden mostrar alertas preventivas o falsos positivos.
 
