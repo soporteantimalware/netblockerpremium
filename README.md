@@ -151,7 +151,7 @@
 
 <div align="center">
 
-<img src="img/SmartScreen.gif" alt="Cómo ejecutar NetBlocker Premium" width="250">
+<img src="https://github.com/soporteantimalware/applockerpro/blob/aea72c6f141e471c3751d2afb4370da7f3b25cf3/img/SmartScreen.gif" alt="Cómo ejecutar NetBlocker Premium" width="250">
 
 </div>
 
