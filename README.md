@@ -168,7 +168,7 @@
 | Arquitectura      | x64             |
 | RAM               | 2 GB            |
 | Espacio en Disco  | 100 MB          |
-| Internet          | No requerido    |
+| Internet          | Requerido    |
 
 ---
 
