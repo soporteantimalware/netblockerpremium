@@ -28,13 +28,13 @@
 | Inicio con Windows                 |                                                                                                           ✅                                                                                                          |                                                                ✅                                                               |                                                                   ✅                                                                   |
 | Gestión de reglas personalizadas   |                                                                                                           ✅                                                                                                          |                                                                ✅                                                               |                                                                   ✅                                                                   |
 | **Duración**                       |                                                                                                      **15 DÍAS**                                                                                                     |                                                            **1 AÑO**                                                           |                                                            **PARA SIEMPRE**                                                           |
-| **Acción**                         | [![Probar](https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge\&logo=windows11\&logoColor=white)](https://github.com/soporteantimalware/netblockerpremium/releases/download/v1.0.0/NetBlockerPremium.exe) | [![PayPal](https://img.shields.io/badge/PAYPAL-ANUAL-764ba2?style=for-the-badge\&logo=paypal\&logoColor=white)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8SR623276G669120GNIR3UFY) | [![PayPal](https://img.shields.io/badge/PAYPAL-LIFETIME-667eea?style=for-the-badge\&logo=paypal\&logoColor=white)](https://www.paypal.com/ncp/payment/VHHZSJWXEQMWG) |
+| **Acción**                         | [![Probar](https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge\&logo=windows11\&logoColor=white)](https://github.com/escudodigitalsv/netblockerpremium/releases/download/v1.0.0/NetBlockerPremium.exe) | [![PayPal](https://img.shields.io/badge/PAYPAL-ANUAL-764ba2?style=for-the-badge\&logo=paypal\&logoColor=white)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8SR623276G669120GNIR3UFY) | [![PayPal](https://img.shields.io/badge/PAYPAL-LIFETIME-667eea?style=for-the-badge\&logo=paypal\&logoColor=white)](https://www.paypal.com/ncp/payment/VHHZSJWXEQMWG) |
 
 ---
 
 <p align="center">
-  <a href="https://github.com/soporteantimalware/netblockerpremium/releases">
-    <img src="https://img.shields.io/github/downloads/soporteantimalware/netblockerpremium/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
+  <a href="https://github.com/escudodigitalsv/netblockerpremium/releases">
+    <img src="https://img.shields.io/github/downloads/escudodigitalsv/netblockerpremium/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
   </a>
 </p>
 
@@ -151,7 +151,7 @@
 
 <div align="center">
 
-<img src="https://github.com/soporteantimalware/applockerpro/blob/aea72c6f141e471c3751d2afb4370da7f3b25cf3/img/SmartScreen.gif" alt="Cómo ejecutar NetBlocker Premium" width="250">
+<img src="https://github.com/escudodigitalsv/applockerpro/blob/aea72c6f141e471c3751d2afb4370da7f3b25cf3/img/SmartScreen.gif" alt="Cómo ejecutar NetBlocker Premium" width="250">
 
 </div>
 
@@ -185,13 +185,13 @@
 ### 📥 Accesos Directos
 
 * 🔒 **AppLocker Pro**
-  https://github.com/soporteantimalware/applockerpro
+  https://github.com/escudodigitalsv/applockerpro
 
 * 🛡️🌐 **AppLocker Pro Suite**
-  https://github.com/soporteantimalware/applockerprosuite
+  https://github.com/escudodigitalsv/applockerprosuite
 
 * 🌍 **AppLocker Pro Nexus**
-  https://github.com/soporteantimalware/applockerpronexus
+  https://github.com/escudodigitalsv/applockerpronexus
 
 ---
 
