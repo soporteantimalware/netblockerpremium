@@ -19,16 +19,105 @@
 
 # 💎 Comparativa de Licencias y Descarga
 
-| Funciones                          |                                                                                                    Gratis (Trial)                                                                                                    |                                                        Suscripción Anual                                                       |                                                           Licencia Vitalicia                                                          |
-| :--------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| Bloqueo de sitios web              |                                                                                                           ✅                                                                                                          |                                                                ✅                                                               |                                                                   ✅                                                                   |
-| Bloqueo de dominios personalizados |                                                                                                           ✅                                                                                                          |                                                                ✅                                                               |                                                                   ✅                                                                   |
-| Bloqueo de Internet por aplicación |                                                                                                           ✅                                                                                                          |                                                                ✅                                                               |                                                                   ✅                                                                   |
-| Protección mediante contraseña     |                                                                                                           ✅                                                                                                          |                                                                ✅                                                               |                                                                   ✅                                                                   |
-| Inicio con Windows                 |                                                                                                           ✅                                                                                                          |                                                                ✅                                                               |                                                                   ✅                                                                   |
-| Gestión de reglas personalizadas   |                                                                                                           ✅                                                                                                          |                                                                ✅                                                               |                                                                   ✅                                                                   |
-| **Duración**                       |                                                                                                      **15 DÍAS**                                                                                                     |                                                            **1 AÑO**                                                           |                                                            **PARA SIEMPRE**                                                           |
-| **Acción**                         | [![Probar](https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge\&logo=windows11\&logoColor=white)](https://github.com/escudodigitalsv/netblockerpremium/releases/download/v1.0.0/NetBlockerPremium.exe) | [![PayPal](https://img.shields.io/badge/PAYPAL-ANUAL-764ba2?style=for-the-badge\&logo=paypal\&logoColor=white)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8SR623276G669120GNIR3UFY) | [![PayPal](https://img.shields.io/badge/PAYPAL-LIFETIME-667eea?style=for-the-badge\&logo=paypal\&logoColor=white)](https://www.paypal.com/ncp/payment/VHHZSJWXEQMWG) |
+<table>
+
+<tr>
+<th>Funciones</th>
+<th>Gratis (Trial)</th>
+<th>Suscripción Anual</th>
+<th>Licencia Vitalicia</th>
+</tr>
+
+<tr>
+<td>🔒 AppLocker</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>🌐 NetBlocker</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Bloqueo de aplicaciones</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Bloqueo de sitios web</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Bloqueo de Internet por aplicación</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Protección por contraseña</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Requerir contraseña al abrir externamente</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Inicio con Windows</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td><b>Duración</b></td>
+<td align="center"><b>15 DÍAS</b></td>
+<td align="center"><b>1 AÑO</b></td>
+<td align="center"><b>PARA SIEMPRE</b></td>
+</tr>
+
+
+<tr>
+
+<td><b>Acción</b></td>
+
+<td align="center">
+
+<a href="https://github.com/escudodigitalsv/applockerprosuite/releases">
+<img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white">
+</a>
+
+</td>
+
+
+<td colspan="2" align="center">
+
+<a href="https://www.escudodigitalsv.com" target="_blank">
+
+<img src="https://img.shields.io/badge/🛒_COMPRAR_LICENCIA-escudodigitalsv.com-blue?style=for-the-badge">
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
