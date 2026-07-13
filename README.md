@@ -29,28 +29,14 @@
 </tr>
 
 <tr>
-<td>🔒 AppLocker</td>
-<td align="center">✅</td>
-<td align="center">✅</td>
-<td align="center">✅</td>
-</tr>
-
-<tr>
-<td>🌐 NetBlocker</td>
-<td align="center">✅</td>
-<td align="center">✅</td>
-<td align="center">✅</td>
-</tr>
-
-<tr>
-<td>Bloqueo de aplicaciones</td>
-<td align="center">✅</td>
-<td align="center">✅</td>
-<td align="center">✅</td>
-</tr>
-
-<tr>
 <td>Bloqueo de sitios web</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Bloqueo de dominios personalizados</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
@@ -64,14 +50,7 @@
 </tr>
 
 <tr>
-<td>Protección por contraseña</td>
-<td align="center">✅</td>
-<td align="center">✅</td>
-<td align="center">✅</td>
-</tr>
-
-<tr>
-<td>Requerir contraseña al abrir externamente</td>
+<td>Protección mediante contraseña</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
 <td align="center">✅</td>
@@ -85,29 +64,33 @@
 </tr>
 
 <tr>
+<td>Gestión de reglas personalizadas</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
 <td><b>Duración</b></td>
 <td align="center"><b>15 DÍAS</b></td>
 <td align="center"><b>1 AÑO</b></td>
 <td align="center"><b>PARA SIEMPRE</b></td>
 </tr>
 
-
 <tr>
-
 <td><b>Acción</b></td>
 
 <td align="center">
 
-<a href="https://github.com/escudodigitalsv/applockerprosuite/releases">
+<a href="https://github.com/escudodigitalsv/netblockerpremium/releases/download/v1.0.0/NetBlockerPremium.exe">
 <img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white">
 </a>
 
 </td>
 
-
 <td colspan="2" align="center">
 
-<a href="https://www.escudodigitalsv.com" target="_blank">
+<a href="https://www.escudodigitalsv.com" target="_blank" rel="noopener noreferrer">
 
 <img src="https://img.shields.io/badge/🛒_COMPRAR_LICENCIA-escudodigitalsv.com-blue?style=for-the-badge">
 
