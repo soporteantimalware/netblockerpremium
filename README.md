@@ -247,7 +247,7 @@
 # 🐛 Reportar un Problema
 
 Si encuentras un error o comportamiento inesperado, puedes enviarnos un correo a **soporte@escudodigitalsv.com** indicando:
-* Versión de EasyFolderLock Pro
+* Versión de NetBlocker Premium
 * Versión de Windows
 * Pasos para reproducir el problema
 * Mensaje de error
