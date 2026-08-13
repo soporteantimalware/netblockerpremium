@@ -244,6 +244,20 @@
 
 ---
 
+# 🐛 Reportar un Problema
+
+Si encuentras un error o comportamiento inesperado, puedes enviarnos un correo a **soporte@escudodigitalsv.com** indicando:
+* Versión de EasyFolderLock Pro
+* Versión de Windows
+* Pasos para reproducir el problema
+* Mensaje de error
+* Captura de pantalla, si es necesario
+
+> [!IMPORTANT]
+> Nunca publiques contraseñas ni archivos que contengan información personal.
+
+---
+
 # 🚀 Explora el Ecosistema AppLocker Pro
 
 ¿Buscas una solución diferente? Descubre nuestras demás versiones y encuentra la que mejor se adapta a tus necesidades:
